@@ -7,10 +7,10 @@ This project aims to predict anchor drag in ships (also known as anchor drift or
 The goal is to enhance maritime safety by proactively identifying potential anchor dragging events.
 
 🚀 Tech Stack
-Backend Framework: Spring Boot 4
-API Source: Korea Meteorological Administration (KMA) OpenAPI
-Language: Java
-Model : Keras - LSTM
+- Backend Framework: Spring Boot 4 
+- API Source: Korea Meteorological Administration (KMA) OpenAPI
+- Language: Java
+- Model : Keras - LSTM
 
 
 📁 Project Files/Presentation & Demo
