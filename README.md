@@ -14,7 +14,7 @@ The goal is to enhance maritime safety by proactively identifying potential anch
 
 
 📁 Project Files/Presentation & Demo
-Hackathon: Spring Boot project folder containing the full web service source code.
-🔗 Google Drive Folder – [Click Here ](https://drive.google.com/drive/folders/12Fq4zagDFdTW_pD9MvrDjsIG8Z_VK5wk)
+- Hackathon: Spring Boot project folder containing the full web service source code.
+- 🔗 Google Drive Folder – [Click Here ](https://drive.google.com/drive/folders/12Fq4zagDFdTW_pD9MvrDjsIG8Z_VK5wk)
 
 
